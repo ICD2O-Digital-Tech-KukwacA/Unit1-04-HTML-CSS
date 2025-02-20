@@ -1,0 +1,19 @@
+/* Created by: Mr. Kukwac
+* Created on: Feb 2025
+* This CSS file defines the style for more style.html
+* ICS2O-Unit1-04-HTML-CSS
+*/
+body {
+    background-color: cyan;
+}
+
+h1 {
+    background-color: palevioletred;
+    color: palegreen;
+    padding: 30px;
+    text-align: center;
+}
+
+p {
+    background-color: lightskyblue;
+}
